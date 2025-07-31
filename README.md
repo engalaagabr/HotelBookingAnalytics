@@ -20,14 +20,6 @@ The goal is to derive actionable insights for hotel management and decision-make
 ## 📂 File Structure
 
 ```
-PyBrary/
-│
-├── SourceCode.py          # Main application code
-├── books.csv        # Book data file
-├── users.csv        # User login data file
-└── README.md        # Project documentation
-```
-
 ---
 HotelBookingAnalytics/
 │
@@ -37,4 +29,4 @@ HotelBookingAnalytics/
 ├── GUI DashBoard.py         # Enhanced GUI-based dashboard (Tkinter or other GUI framework)
 ├── Presentation.pptx        # Project presentation slides
 └── README.md                # Project documentation
-
+```
