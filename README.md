@@ -15,7 +15,20 @@ This project explores hotel booking behavior using the `hotel_bookings.csv` data
 The goal is to derive actionable insights for hotel management and decision-makers using data visualization and interactive dashboards.
 
 ---
+---
 
+## 📂 File Structure
+
+```
+PyBrary/
+│
+├── SourceCode.py          # Main application code
+├── books.csv        # Book data file
+├── users.csv        # User login data file
+└── README.md        # Project documentation
+```
+
+---
 HotelBookingAnalytics/
 │
 ├── hotel_bookings.csv       # Dataset used for analysis
@@ -23,5 +36,5 @@ HotelBookingAnalytics/
 ├── DashBoard.py             # Basic interactive dashboard using Streamlit
 ├── GUI DashBoard.py         # Enhanced GUI-based dashboard (Tkinter or other GUI framework)
 ├── Presentation.pptx        # Project presentation slides
-├── README.md                # Project documentation
+└── README.md                # Project documentation
 
