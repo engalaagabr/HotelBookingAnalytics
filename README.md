@@ -20,7 +20,7 @@ The goal is to derive actionable insights for hotel management and decision-make
 ## 📂 File Structure
 
 ```
-HotelBookingAnalytics/
+## HotelBookingAnalytics
 │
 ├── hotel_bookings.csv       # Dataset used for analysis
 ├── IEEE Project.ipynb       # Main notebook with data cleaning, EDA, and visualizations
