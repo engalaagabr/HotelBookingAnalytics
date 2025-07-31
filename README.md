@@ -15,7 +15,6 @@ This project explores hotel booking behavior using the `hotel_bookings.csv` data
 The goal is to derive actionable insights for hotel management and decision-makers using data visualization and interactive dashboards.
 
 ---
----
 
 ## 📂 File Structure
 
