@@ -16,14 +16,12 @@ The goal is to derive actionable insights for hotel management and decision-make
 
 ---
 
-## 🗂️ Project Structure
-
-
 HotelBookingAnalytics/
 │
-├── hotel_bookings.csv # Dataset used for analysis
-├── IEEE Project.ipynb # Main notebook with data cleaning, EDA, and visualizations
-├── DashBoard.py # Basic interactive dashboard using Streamlit 
-├── GUI DashBoard.py # Enhanced GUI-based dashboard (Tkinter or other GUI framework)
-├── Presentation.pptx # Project presentation slides
-├── README.md # Project documentation 
+├── hotel_bookings.csv       # Dataset used for analysis
+├── IEEE Project.ipynb       # Main notebook with data cleaning, EDA, and visualizations
+├── DashBoard.py             # Basic interactive dashboard using Streamlit
+├── GUI DashBoard.py         # Enhanced GUI-based dashboard (Tkinter or other GUI framework)
+├── Presentation.pptx        # Project presentation slides
+├── README.md                # Project documentation
+
